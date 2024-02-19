@@ -1,16 +1,12 @@
 # BICOS 
 
-`Tecnologia em Análise e Desenvolvimento de Sistemas`
-
 `Projeto: Desenvolvimento de uma Aplicação Mobile`
-
-`3º semestre`
 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t6-bicos-prestacao-de-servicos/blob/main/docs/img/icon%201.png?raw=true"  width="200"/>
 
 Bicos é uma aplicação de prestação de serviços que pretende facilitar a busca por empregos de diversos tipos de contrato. Muitas pessoas estão com objetivos a longo prazo de conseguirem a independência financeira, e muitas delas procuram empregos temporários como renda extra, bicos é uma app que busca conectar as pessoas com seus objetivos profissionais de curto, médio até mesmo a longo prazo. Com o aplicativo Bicos é possível cadastrar o seu perfil e se inscrever em vagas disponiveis.
 
-## Integrantes
+## Projeto com contribuição de:
 
 
 * <a href="https://www.linkedin.com/in/gisellenrosa/">Giselle Nepomuceno Rosa</a>
@@ -20,9 +16,6 @@ Bicos é uma aplicação de prestação de serviços que pretende facilitar a bu
 * <a href="https://github.com/GabrieldeAlmeidaCarvalho">Gabriel de Almeida</a>
 * <a href="https://github.com/RafaelPereira7L">Rafael Pereira</a>
 
-## Orientador
-
-* Diego Silva Caldeira Rocha
 
 ## Instruções de utilização
 
